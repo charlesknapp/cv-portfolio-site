@@ -1,0 +1,34 @@
+.main-header:before {
+    background: rgba(39,52,82,0.92) !important;
+}
+.background:before {
+    background: rgba(39,52,82,1) !important;
+}
+body {
+    background: #242424 !important;
+}
+.menu.menu--active {
+    background: #1a1a1a !important;
+}
+.menu.menu--active .menu__wrapper a {
+    color: #939393 !important;
+}
+.personal-profile .personal-profile__avatar img {
+    box-shadow: 0 0 27px rgba(0,0,0,0.34);
+}
+h2#hello_header {
+    color: silver;
+}
+p.section__description {
+    color: silver;
+    font-size: 20px;
+}
+.resume-list .resume-list_title {
+    color: silver;
+}
+h3.progress-list__title {
+    color: silver;
+}
+p {
+    color: silver;
+}
